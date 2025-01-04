@@ -1,0 +1,46 @@
+
+Shardborn Quest Project Snapshot
+=================================
+
+Date/Time: 2025-01-03_19-31
+
+📖 Current Narrative Status:
+- Active Scene: En route to Black Hollow
+- Objective: Investigate the source of corruption and confront Seraphine
+
+🎭 Player States:
+- Rieta Akta: Level 5 | XP: 4700 | Inventory: Celestial Shard, Crystal-Handled Dagger, Healing Potions (x2)
+- Gondwyn Dawnstar: Level 5 | XP: 4600 | Inventory: Lantern's Edge, The Bastion Eternal, Healing Potions (x2)
+
+🛠️ Pending Updates:
+- Immediate: Continue the journey to Black Hollow
+- Future: Integrate new players seamlessly
+
+🌍 Technical Settings:
+- Map: Obsidian Wasteland outskirts
+- JSON Sync: Enabled
+- Automation Triggers: Active environmental hazards
+
+✅ Next Steps:
+- Reference Session Restart Checklist for continuity.
+- Load backups from this snapshot if corruption occurs.
+
+🛡️ Restoration & Backup Sequence:
+
+1. **During Active Session:**  
+   - **Step 1:** Run `!Arcane Faith!` → Validate all JSON files.  
+   - **Step 2:** Run `!Volta Aeternus!` → Generate a single `.zip` backup (`shardborn_backups.zip`) with all essential campaign files.
+
+2. **Starting a New Session or After an Interruption:**  
+   - **Step 3:** Upload the latest backup file (`shardborn_backups.zip`).  
+   - **Step 4:** Use the recovery keyword: `!Divine Revelation!`.
+
+🔄 **Lightweight Backup Strategy:**  
+- **Daily Overwrite:** Use a single file (`shardborn_backups.zip`) for daily backups.  
+- **Local Redundancy:** Download and store milestone copies manually if needed.
+
+🗝️ Command Descriptions:
+- 🛠️ `!Arcane Faith!`: Validate all JSON files for syntax, integrity, and consistency.
+- 📥 `!Volta Aeternus!`: Create a single `.zip` backup of all essential campaign files.
+- 🛡️ `!Divine Revelation!`: Restore from the latest backup seamlessly.
+- 🔄 `!Purify and Seal!`: Execute Validation → Backup → Provide Download Link in one step.

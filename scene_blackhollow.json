@@ -1,0 +1,20 @@
+{
+    "sceneName": "Journey to Black Hollow",
+    "description": "The party travels through a corrupted expanse, shadowed by remnants of ancient ruins.",
+    "encounters": [
+        {
+            "name": "Whispers in the Shadows",
+            "type": "Environmental Hazard",
+            "effect": "Wisdom saving throw to resist fear and confusion."
+        },
+        {
+            "name": "The Lone Wanderer",
+            "type": "NPC Interaction",
+            "dialogue": "The shadows have grown bold... tread carefully."
+        }
+    ],
+    "narrativeHooks": [
+        "The ruins of a forgotten battle scar the land.",
+        "A faint glow emanates from beneath the cracked earth."
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "regions": [
+        {
+            "name": "Ororo Territory",
+            "type": "Territory",
+            "description": "A region known for its golden plains and scattered ruins.",
+            "keyLocations": [
+                "Black Hollow",
+                "Obsidian Wasteland"
+            ]
+        },
+        {
+            "name": "Nishizenu Territory",
+            "type": "Territory",
+            "description": "Known for ancient ruins hidden in thick forests.",
+            "keyLocations": [
+                "Sanctuary of Dawn",
+                "Twilight Expanse"
+            ]
+        },
+        {
+            "name": "New Nabatil Colony",
+            "type": "Colony",
+            "description": "A newly established colony with thriving trade routes.",
+            "keyLocations": [
+                "Merchant's Bay",
+                "Ivory Cliffs"
+            ]
+        }
+    ],
+    "biomes": [
+        {
+            "name": "Marine",
+            "color": "#1f78b4",
+            "description": "Vast oceanic expanses teeming with aquatic life."
+        },
+        {
+            "name": "Hot Desert",
+            "color": "#ffcc66",
+            "description": "Arid landscapes with scorching heat and scarce water."
+        },
+        {
+            "name": "Tropical Rainforest",
+            "color": "#29bc56",
+            "description": "Dense jungles filled with exotic flora and fauna."
+        },
+        {
+            "name": "Tundra",
+            "color": "#cceeff",
+            "description": "Frozen wastelands with minimal vegetation."
+        },
+        {
+            "name": "Wetland",
+            "color": "#66cccc",
+            "description": "Swampy regions with abundant water and vegetation."
+        }
+    ],
+    "narrativeHooks": [
+        {
+            "location": "Obsidian Wasteland",
+            "hook": "An ancient evil stirs beneath the jagged black stones."
+        },
+        {
+            "location": "Sanctuary of Dawn",
+            "hook": "A place of celestial light, said to hold untold secrets."
+        },
+        {
+            "location": "Twilight Expanse",
+            "hook": "Whispers of shadowy figures haunting the edges of twilight."
+        }
+    ]
+}
