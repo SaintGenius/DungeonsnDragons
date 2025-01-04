@@ -1,0 +1,163 @@
+{
+    "System Overview": {
+        "Purpose": "Manage an immersive and structured D&D campaign with persistent JSON data tracking.",
+        "Session Flow": {
+            "Start": [
+                "Roll Call",
+                "Serialized Intro",
+                "Scene Visual Aid",
+                "Scene Change Cheat Sheet"
+            ],
+            "During": [
+                "Fluid Gameplay",
+                "Player Decisions",
+                "Dynamic NPC Management",
+                "Live Level-Ups"
+            ],
+            "End": [
+                "Cinematic Cliffhanger Recap",
+                "Session Summary",
+                "Six JSON Downloads",
+                "Final Visual Aid"
+            ]
+        },
+        "Icons Guide": {
+            "\ud83d\udcac": "NPC Dialogue",
+            "\ud83c\udf99\ufe0f": "NPC Voice Descriptor",
+            "\ud83d\udee1\ufe0f": "DM Prompt",
+            "\ud83c\udfb2": "Player Action",
+            "\ud83d\udd39": "Player Choices",
+            "\ud83d\uddbc\ufe0f": "Visual Aid",
+            "\ud83c\udfbc": "Music Cue",
+            "\ud83d\udd0a": "Sound Prompt",
+            "\ud83d\udcdc": "Lore"
+        },
+        "JSON Management": {
+            "Master Campaign JSON": "Comprehensive data including world details, NPCs, rules, and player stats.",
+            "Rules & Mechanics JSON": "Focused on gameplay rules, refinements, and protocols.",
+            "Player JSONs": "One per player, updated regardless of session attendance."
+        }
+    },
+    "Current State of the Game": {
+        "Campaign Setting": "Realm of Elarion",
+        "Current Objective": "Journey to Black Hollow, confront Seraphine, investigate Celestial Shards.",
+        "Recent Events": [
+            "Players defeated a corrupted caravan.",
+            "Looted a magical chest with Celestial Shards.",
+            "Had a cryptic vision of Seraphine."
+        ],
+        "Player Characters": {
+            "Rieta Akta": {
+                "Level": 5,
+                "XP": 4700,
+                "Inventory": [
+                    "Celestial Shard",
+                    "Crystal-Handled Dagger",
+                    "Healing Potion x2"
+                ]
+            },
+            "Gondwyn Dawnstar": {
+                "Level": 5,
+                "XP": 4600,
+                "Inventory": [
+                    "The Bastion Eternal",
+                    "Lantern\u2019s Edge",
+                    "Healing Potion x2"
+                ]
+            }
+        }
+    },
+    "Pending Updates or Next Steps": {
+        "Immediate Goals": [
+            "Continue the journey to Black Hollow.",
+            "Prepare for confrontation with Seraphine.",
+            "Investigate magical properties of recent artifacts."
+        ],
+        "Future Tasks": [
+            "Integrate new human players organically.",
+            "Introduce serialized intros at session start.",
+            "Maintain seamless Roll Call system."
+        ]
+    },
+    "Specific Rules or Mechanics Discussed": {
+        "Scene Change Cheat Sheet": {
+            "Structure": [
+                "\ud83c\udf0d Environmental Sounds (e.g., \ud83d\udd0a Wind Howl, \ud83d\udd0a Silent Cavern)",
+                "\u2694\ufe0f Foley Sounds (e.g., \ud83d\udd0a Sword Clash, \ud83d\udd0a Branch Snap)",
+                "\ud83c\udfbc Music Cues (e.g., \ud83c\udfbc Tense Exploration Theme)"
+            ],
+            "Example": {
+                "\ud83c\udf0d Environmental": [
+                    "\ud83d\udd0a Silent Cavern",
+                    "\ud83d\udd0a Water Drip"
+                ],
+                "\u2694\ufe0f Foley": [
+                    "\ud83d\udd0a Sword Drawn",
+                    "\ud83d\udd0a Arrow Whizz"
+                ],
+                "\ud83c\udfbc Music": [
+                    "\ud83c\udfbc Ominous Dungeon Theme"
+                ]
+            }
+        },
+        "Sound Prompt Placement": {
+            "Order": [
+                "\ud83d\udd0a Environmental Sounds first",
+                "Followed by DM Narration"
+            ],
+            "Dynamic Foley": "Triggered in-line during narrative moments."
+        },
+        "Player Choices": {
+            "Structure": "Numbered with DC, stat type, and modifiers.",
+            "Custom Actions": "Adapted logically with appropriate rolls and DCs."
+        },
+        "Roll Call": {
+            "Format": "Quick numbered list for confirmation.",
+            "Absent Players": "Organically explained in the story.",
+            "Returning Players": "Seamless reintegration."
+        },
+        "JSON Updates": {
+            "Frequency": "Live updates, hourly prompts, session start and end downloads.",
+            "Files": [
+                "Master Campaign JSON",
+                "Rules & Mechanics JSON",
+                "1 JSON per Player"
+            ]
+        }
+    },
+    "Instructions for Catching Up": {
+        "Purpose": "Ensure seamless continuation of the campaign after any pause or transition to a new ChatGPT session.",
+        "Steps to Resume the Campaign": [
+            "1. Load the Master Campaign JSON, Rules & Mechanics JSON, and Player JSONs.",
+            "2. Review the 'Current State of the Game' section for a narrative recap and key objectives.",
+            "3. Follow the 'Pending Updates or Next Steps' to identify immediate tasks and future goals.",
+            "4. Use the 'System Overview' as a guide for session structure, JSON management, and rules.",
+            "5. Begin with a Roll Call to confirm active players using the specified format.",
+            "6. Start the session with a serialized narrative intro based on the party's current status.",
+            "7. Refer to the 'Scene Change Cheat Sheet' during scene transitions for sound and ambiance cues."
+        ],
+        "Key Responsibilities": {
+            "DM": [
+                "Maintain structured gameplay flow.",
+                "Ensure JSONs are updated in real-time and at session checkpoints.",
+                "Provide clear player choices, roll prompts, and consequences."
+            ],
+            "Assistant (ChatGPT)": [
+                "Proactively suggest sound, music, and visual prompts.",
+                "Keep track of NPC character sheets, quest details, and player progress.",
+                "Ensure smooth integration of absent or returning players."
+            ]
+        },
+        "Session Restart Checklist": [
+            "\u2705 Load all relevant JSON files.",
+            "\u2705 Confirm player attendance with Roll Call.",
+            "\u2705 Deliver a serialized narrative intro.",
+            "\u2705 Reference the Scene Change Cheat Sheet for preparation.",
+            "\u2705 Begin the session with the current objective clearly stated."
+        ],
+        "Notes for Future Sessions": [
+            "If any inconsistencies arise, cross-reference JSON files with the conversation history.",
+            "Ensure all six JSON files (Master Campaign, Rules & Mechanics, Player JSONs) are kept updated and accessible."
+        ]
+    }
+}

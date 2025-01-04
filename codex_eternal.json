@@ -1,0 +1,146 @@
+{
+  "overview": "The master guide to rules, sound index, and systems. This document serves as the foundation for campaign management, including audio-visual integration, adaptive storytelling, and seamless player interaction. It ensures consistency across all systems and serves as the primary reference point for Dungeon Master workflows.",
+  "sound_index": {
+    "cues": {
+      "available": [
+        "Battle Cue",
+        "Victory Cue",
+        "Mystery Cue",
+        "New Quest Cue",
+        "Fear Cue",
+        "Danger Cue",
+        "Fight Begins Cue",
+        "Reveal Cue",
+        "Epic Win Cue"
+      ],
+      "missing": [
+        "Suspense Cue",
+        "Ambush Cue",
+        "Magic Surge Cue"
+      ]
+    },
+    "ambient_tracks": {
+      "available": [
+        "Forest Scene",
+        "Jungle Scene",
+        "Dungeon Scene",
+        "Hellscape Scene",
+        "Intrigue Scene",
+        "Dark Tunnel",
+        "Ancient Ruins",
+        "Palace Hall",
+        "Sewers",
+        "Calm Night",
+        "Campfire",
+        "Summer Day",
+        "Winter Mountain"
+      ],
+      "missing": [
+        "Mystic Temple Scene",
+        "Stormy Night Scene",
+        "Frozen Cavern Scene"
+      ]
+    },
+    "foley_sounds": {
+      "available": [
+        "Sword Clash",
+        "Sword Stab",
+        "Draw Sword",
+        "Wooden Door Open",
+        "Wooden Door Close",
+        "Knock Knock Knock",
+        "Heel Steps",
+        "Monster Growl",
+        "Dog Growl",
+        "Wolf Howl",
+        "Loud Roar",
+        "Monster Huff"
+      ],
+      "missing": [
+        "Armor Creak",
+        "Chains Rattle",
+        "Footsteps in Water"
+      ]
+    },
+    "voices": {
+      "available": [
+        "Hollow King",
+        "Seraphine",
+        "The Herald",
+        "Titan",
+        "Wizard",
+        "Lizard Man",
+        "Evil Demon",
+        "Ogre",
+        "Merman",
+        "Witch",
+        "Sorceress",
+        "Underboss",
+        "Inn Keeper",
+        "Lady Villager",
+        "Halfling",
+        "Lost Soul"
+      ],
+      "missing": [
+        "Mysterious Stranger",
+        "Ancient Spirit",
+        "Enigmatic Bard"
+      ]
+    },
+    "unassigned_sounds": {
+      "available": [
+        "Celtic Flute",
+        "K's Ballad",
+        "K's Plight",
+        "Kaelen Fall",
+        "King Reign",
+        "Rise New King",
+        "Legend Kaelen Dawn"
+      ],
+      "missing": [
+        "Unknown Melody",
+        "Hidden Tune"
+      ]
+    },
+    "future_suggestions": [
+      "Storm Surge Cue",
+      "Battle Aftermath Cue",
+      "Magical Explosion Foley",
+      "Whispering Shadows Ambient"
+    ]
+  },
+  "rules_and_mechanics": {
+    "decision_making": "Player choices are presented clearly with numbered options. Custom player actions are interpreted logically.",
+    "roll_mechanics": {
+      "stat_modifiers": "All rolls specify Stat Modifiers, Proficiency Bonuses, and DC (Difficulty Class).",
+      "player_rolls": "Players roll for attacks, saving throws, and ability checks.",
+      "clarity": "Each roll prompt specifies the type of roll, modifiers, and required DC."
+    },
+    "combat_flow": {
+      "initiative_management": "Initiative and turn order are managed proactively with clear prompts.",
+      "npc_turns": "NPC and enemy turns are announced proactively without delay."
+    },
+    "leveling_system": {
+      "hybrid_approach": "Combines XP rewards and milestone leveling.",
+      "live_level_ups": "Level-ups are announced with narrative flair and applied immediately."
+    }
+  },
+  "session_restart_protocols": {
+    "periodic_restarts": "If session performance degrades significantly, prompt for a session restart.",
+    "safe_save_before_restart": "Before restarting, ensure all JSONs are saved and a final .zip archive is created.",
+    "session_reinitialization": "Upon restarting, prompt the user to upload the latest .zip archive for ingestion.",
+    "verification": "After ingestion, verify that all JSONs are correctly loaded before resuming gameplay."
+  },
+  "adaptive_storytelling": {
+    "handling_unknowns": "When encountering unknown or undefined details, clarify the gap, suggest improvisations, or provide multiple options.",
+    "logging_choices": "All player choices, improvisations, and narrative developments are logged into the appropriate JSON files.",
+    "improvisation_guidelines": "Improvised elements must fit within the established world theme and should not contradict existing lore.",
+    "player_input_priority": "Player agency is prioritized, and custom actions are interpreted logically with clear outcomes."
+  },
+  "file_backup_protocols": {
+    "regular_backups": "JSON files will be compressed into a .zip archive every hour during active sessions.",
+    "session_closure_backups": "At the end of each session, a final .zip archive will be created containing all relevant JSON files.",
+    "verification": "Each backup will be verified for accessibility.",
+    "manual_download_prompt": "After each backup, you will be prompted to download the .zip file."
+  }
+}
