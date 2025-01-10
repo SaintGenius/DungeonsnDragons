@@ -1,0 +1,71 @@
+{
+    "project_name": "Project Lightweight",
+    "purpose": "Consolidated recovery and operational framework for Project Lightweight.",
+    "active_workflows": [
+        "JSON management and live updates",
+        "GitHub/Vercel integration for hosting",
+        "Dynamic scene management",
+        "Player progression tracking"
+    ],
+    "active_files": {
+        "description": "Files essential for current workflows",
+        "list": [
+            "/Active_Lightweight_Materials/player_gondwyn.json",
+            "/Active_Lightweight_Materials/player_rieta.json",
+            "/Active_Lightweight_Materials/Project_Conversation_Recap_and_Instructions.json"
+        ]
+    },
+    "archival_files": {
+        "description": "Reference materials for lore and historical context",
+        "list": [
+            "/Shardborn_Archive/shardborn_master.json",
+            "/Shardborn_Archive/lore_data.json"
+        ]
+    },
+    "protocols": {
+        "session_recovery": "Load this Master Recovery JSON and validate all active files and workflows.",
+        "workflow_validation": [
+            "Ensure JSON files are accessible and valid.",
+            "Test GitHub/Vercel integration for live updates.",
+            "Validate marker and Azgaar Map integration."
+        ],
+        "segregation_structure": {
+            "active_directory": "/Active_Lightweight_Materials",
+            "archival_directory": "/Shardborn_Archive"
+        }
+    },
+    "validation_log": "All workflows and files validated as of 2025-01-09.",
+    "session_state": {
+        "last_updated": "2025-01-09",
+        "session_data": {
+            "current_scene": "Eclipsed Gate",
+            "active_markers": [
+                "Lost Sanctum Gateway",
+                "Eryndor the Wise"
+            ],
+            "player_progress": {
+                "Gondwyn": {
+                    "level": 5,
+                    "xp": 4700,
+                    "inventory": [
+                        "Lantern's Edge",
+                        "Healing Potion"
+                    ]
+                },
+                "Rieta": {
+                    "level": 5,
+                    "xp": 4700,
+                    "inventory": [
+                        "Crystal-Handled Dagger",
+                        "Celestial Shard"
+                    ]
+                }
+            }
+        }
+    },
+    "next_steps": [
+        "Store this file in the GitHub repository.",
+        "Update after every session to reflect the latest state.",
+        "Use this file to restore workflows and validate project continuity."
+    ]
+}
