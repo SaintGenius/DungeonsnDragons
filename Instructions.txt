@@ -1,0 +1,417 @@
+### **Character Sheet: Marker1
+
+#### **Characters**
+
+---
+
+### **Gondwyn Dawnstar**
+- **Race:** Human
+- **Class:** Paladin
+- **Archetype:** Oath of Devotion
+- **Background:** Soldier
+- **Alignment:** Lawful Good
+- **Level:** 5
+- **Experience Points:** 6,500
+- **Age:** 29
+- **Current HP:** 41
+- **Max HP:** 41
+
+#### **Attributes**
+- **Strength:** 18
+- **Dexterity:** 12
+- **Constitution:** 16
+- **Intelligence:** 8
+- **Wisdom:** 11
+- **Charisma:** 10
+
+#### **Inventory**
+- Healing Potion
+- Rations (x5)
+
+#### **Purse**
+- **Gold:** 16
+- **Silver:** 0
+
+#### **Appearance**
+Broad-shouldered with silver chin-length hair, green eyes, and a diagonal scar on his cheek. Wears polished chainmail adorned with a radiant sunburst.
+
+#### **Personality**
+Exudes duty and honor, kind-hearted, listens to others.
+
+---
+
+### **Rieta Akta**
+- **Race:** Tiefling
+- **Class:** Ranger
+- **Archetype:** Beast Master
+- **Background:** Outlander
+- **Alignment:** Chaotic Neutral
+- **Level:** 5
+- **Experience Points:** 6,500
+- **Age:** 22
+- **Current HP:** 31
+- **Max HP:** 31
+
+#### **Attributes**
+- **Strength:** 14
+- **Dexterity:** 16
+- **Constitution:** 13
+- **Intelligence:** 10
+- **Wisdom:** 15
+- **Charisma:** 12
+
+#### **Inventory**
+- Healing Potion
+- Antitoxin (x2)
+
+#### **Purse**
+- **Gold:** 40
+- **Silver:** 0
+
+#### **Appearance**
+Lithe Tiefling with deep red skin, glowing amber eyes, curved horns, and auburn braided hair. Wears leather armor adorned with woodland motifs.
+
+#### **Personality**
+Independent, values freedom, loyal to those she trusts.
+
+---
+
+This detailed character sheet provides comprehensive information about Gondwyn Dawnstar and Rieta Akta for use during campaign sessions.
+
+### **Campaign Lore: Marker3**
+
+#### **Overview**
+- **Type:** Lore Document
+- **Description:** Contains detailed world-building, mythology, story elements, and narrative references for the campaign.
+
+---
+
+### **Places**
+1. **The Red Scorpion Inn**
+   - **Marker Reference:** Marker80
+   - **Description:** A bustling inn where Rieta and Gondwyn are waking up after their nightmarish visions of Seraphine. Her icy breath lingers in the air as if it were real.
+   - **Status:** Known
+
+2. **Black Hollow**
+   - **Marker Reference:** Marker79
+   - **Description:** A shadowy and foreboding destination tied to Seraphine’s vision and the rising corruption. Known to be a stronghold of darkness.
+   - **Status:** Known
+
+3. **Twilight Expanse**
+   - **Description:** Rieta’s former homeland, a woodland region consumed by shadow corruption and the loss of balance.
+   - **Status:** Known
+
+4. **Obsidian Wasteland**
+   - **Description:** A desolate region whispered to be cursed, where Kaelen and Thalor fell in their final stand against the Hollow King.
+   - **Status:** Mythology
+
+5. **Sanctuary of Dawn**
+   - **Marker Reference:** Marker81
+   - **Description:** A spiritual haven of light, visited by Rieta and Gondwyn earlier in their quest to confront the growing darkness.
+   - **Status:** Known
+
+---
+
+### **Artifacts**
+1. **Lantern’s Edge**
+   - **Description:** Kaelen’s celestial sword, now in Gondwyn’s inventory. Imbued with faint celestial runes, it holds the potential to become a weapon of immense power when fully restored.
+   - **Owned By:** Gondwyn Dawnstar
+   - **Status:** Owned
+
+2. **Crystal-Handled Dagger**
+   - **Description:** A magical weapon in Rieta’s inventory, resonating with arcane power.
+   - **Owned By:** Rieta Akta
+   - **Status:** Owned
+
+---
+
+### **Figures**
+1. **Rieta Akta**
+   - **Marker Reference:** Marker73
+   - **Description:** A Tiefling ranger on a quest to confront the growing darkness.
+   - **Status:** Active
+
+2. **Gondwyn Dawnstar**
+   - **Marker Reference:** Marker72
+   - **Description:** A human paladin wielding the celestial artifacts Lantern’s Edge and The Bastion Eternal.
+   - **Status:** Active
+
+3. **Seraphine**
+   - **Marker Reference:** Marker82
+   - **Description:** An enigmatic figure appearing in Rieta and Gondwyn’s visions. Tied to the Hollow King, her frost-laden breath and shadowy aura suggest a dangerous and powerful presence.
+   - **Status:** Known
+
+---
+
+This document summarizes the lore, including key locations, artifacts, and characters, to provide a comprehensive reference for the campaign.
+
+### **Campaign Details: Marker5**
+
+#### **Scene Progression**
+- **Current Scene:**
+  - *Scene 1: The Red Scorpion Inn*
+  - *Description:* Rieta and Gondwyn awaken in the Red Scorpion Inn, their dreams haunted by Seraphine’s vision. Frost clings to the window shutters, and the dying fire casts flickering shadows on the wooden walls. The air is heavy with a lingering, unnatural chill.
+
+- **Next Steps:**
+  1. Investigate the lingering effects of Seraphine’s vision.
+  2. Leave the room but continue investigating the Inn.
+  3. Prepare for travel and leave the Inn.
+
+---
+
+#### **Player Characters**
+
+1. **Rieta Akta**
+   - **Race:** Tiefling
+   - **Class:** Ranger
+   - **Archetype:** Beast Master
+   - **Attributes:**
+     - Strength: 14
+     - Dexterity: 16
+     - Constitution: 13
+     - Intelligence: 10
+     - Wisdom: 15
+     - Charisma: 12
+   - **Status:** Active
+
+2. **Gondwyn Dawnstar**
+   - **Race:** Human
+   - **Class:** Paladin
+   - **Archetype:** Oath of Devotion
+   - **Attributes:**
+     - Strength: 18
+     - Dexterity: 12
+     - Constitution: 16
+     - Intelligence: 8
+     - Wisdom: 11
+     - Charisma: 10
+   - **Status:** Active
+
+---
+
+This summary provides an overview of the current scene and active player characters to guide session progression and maintain clarity.
+
+### **Session Start Protocols**
+
+#### **Player Roll Call**
+1. Roll call must be completed before gameplay begins.
+2. All active players and their known characters must be listed during roll call.
+3. Options to generate or import new characters must be presented if applicable.
+4. Gameplay cannot proceed until all active players are accounted for.
+
+#### **Character Creation**
+- **Random Generation:**
+  1. Roll for ability scores using 4d6 (drop the lowest).
+  2. Assign race and class using random rolls.
+  3. Select or roll for starting equipment.
+- **Custom Creation:**
+  1. Choose race, class, and background.
+  2. Assign ability scores using point buy, standard array, or rolling.
+  3. Finalize alignment, name, and personal traits.
+- **Requirements:**
+  - New characters must be generated or imported during roll call and adhere to all creation rules.
+
+#### **Scene Initialization**
+1. Start with the `current_scene` specified in the Campaign Document `world_state`.
+2. Apply environmental effects and narrative hooks for immersion.
+3. Prompt players with opening choices and objectives.
+
+#### **Session Continuity**
+1. For live games, the next session starts where the previous session left off.
+2. Reference logs (Live Gameplay Log, Game Mechanics and Rules Log, Character Sheets Log, Campaign Document) for continuity.
+
+#### **Session Close**
+1. Update the Campaign Document to reflect the campaign's current state, including:
+   - The last scene players were in.
+   - Each player currently participating.
+2. Validate and sync all relevant Documents.
+3. Generate a final scene image in 16:9 resolution.
+4. Provide a closing "cliffhanger" narrative for the next session.
+
+---
+
+### **Gameplay Mechanics**
+
+#### **General Gameplay**
+1. **Numbered Choices:**
+   - All actions and decisions must be numbered.
+   - Example:
+     - 1. Investigate the carvings.
+     - 2. Attempt to activate the portal.
+     - 3. Speak to the NPC.
+2. **Scene Progression:**
+   - Adhere to lore starting with the scene in the Campaign Document.
+   - Test sessions focus on mechanical refinement, not narrative.
+3. **Sound Cues and Visuals:**
+   - Use sound effects and visuals to enhance immersion.
+   - Examples:
+     - Ambient Effects: Creaking wood, whispers, frost crackling.
+     - Triggered Effects: Portal activation or combat.
+   - DM Commands for Images:
+     - `/generate_scene`: Scene image.
+     - `/generate_PC`: Player character image.
+     - `/generate_NPC`: NPC image.
+
+#### **Combat Mechanics**
+1. **Initiative:**
+   - Players roll a d20 + Dexterity modifier for turn order.
+2. **Actions:**
+   - Attack: Roll d20 + attack modifier vs. target AC.
+   - Spellcasting: Use spell save DC or attack roll.
+   - Bonus Action: Follow class or feature rules.
+3. **Healing Potions:**
+   - Bonus action to use.
+   - Effects:
+     - Standard: Restores 2d4 + 2 HP.
+     - Greater: Restores 4d4 + 4 HP.
+
+#### **Skill Checks**
+1. **Saving Throws:**
+   - Roll d20 + relevant ability modifier to avoid harm.
+2. **Perception:**
+   - Example: DC 14 to notice a frost rune.
+3. **Arcana:**
+   - Example: DC 15 to stabilize a portal.
+4. **Insight:**
+   - Example: DC 15 to discern motives.
+5. **Survival:**
+   - Varies by terrain difficulty.
+
+#### **Custom Mechanics**
+1. **Dungeon Hazards:**
+   - Collapsing ceilings: Dexterity save (DC 14).
+   - Shadow traps: Wisdom save (DC 12) to avoid fear.
+2. **Portal Usage:**
+   - Arcana check (DC 15) to stabilize a portal.
+   - Failing causes magical backlash or hazards.
+
+---
+
+### **Environmental Effects**
+- Persistent effects (e.g., frost, magical hum) remain until addressed.
+- Players may use Perception or Arcana to investigate phenomena.
+
+---
+
+### **Session Logs**
+1. Live Gameplay Log: Tracks events and actions.
+2. Game Mechanics Log: Tracks rules and mechanics.
+3. Character Sheets Log: Updates stats, abilities, and inventories.
+4. Campaign Document: Tracks world-state and scene data.
+
+---
+
+### **Character Roll Call and Creation System**
+
+#### **Roll Call Process**
+1. List all known characters with numbered options:
+   - 1. Rieta Akta
+   - 2. Gondwyn Dawnstar
+   - 3. Add Player(s)
+2. Players select numbers for characters.
+3. Confirm new players if "Add Player(s)" is chosen.
+
+#### **Adding New Players**
+1. Specify the number of new players.
+2. Provide menu options:
+   - **Random Character Generation**
+     - Roll for ability scores (4d6, drop lowest).
+     - Assign race and class randomly.
+     - Roll/select equipment.
+   - **Guided Character Creation**
+     - Choose race, class, background.
+     - Assign ability scores (point buy, array, or rolling).
+     - Finalize alignment, name, traits.
+3. Add new character details to Document logs.
+
+#### **Post-Roll Call**
+1. Confirm all players and characters.
+2. Begin the session with the specified scene.
+
+#### **Gameplay Management**
+1. ChatGPT tracks all rolls, DCs, initiative, and turns.
+2. ChatGPT controls NPCs and their turns.
+3. Session progression follows Campaign State references.
+
+---
+
+### **Icon System for Clarity**
+- 🎲 **Player Actions**: Decisions, rolls, and prompts.
+- 🛡️ **DM Prompts**: Dungeon Master actions.
+- 💬 **NPC Dialogue**: Non-player character dialogue.
+- 📜 **Lore**: World-building and descriptive elements.
+- 🖼️ **Visual Aid**: Scene and character images.
+- 🔊 **Sound Cues**: Ambient or triggered effects.
+
+---
+
+This structure ensures clarity, immersion, and efficient gameplay!
+
+This is an instruction document to provide a context for what you will be required to do. I will upload a Document document. The document contains modular Documents designed to structure and guide gameplay. Each marker within the system corresponds to a specific element of the campaign. Follow the instructions contained from the markers within it.
+
+Markers:
+
+marker0 - Master Document: Tracks all markers and their relationships within the campaign.
+marker1 - Character Sheet Updates: Contains detailed player and NPC character sheets, XP, inventory, and status effects.
+marker2 - Rules Document: Defines game mechanics, protocols, and clarifications.
+marker3 - Lore Document: Holds world-building details and narrative lore.
+marker4 - Changelog Document: A log or record of all notable changes made during gameplay
+marker5 - Campaign Document: Tracks session updates, world state, and active scene progression.
+marker6 - Manual Actions Document: Contains tasks for manual updates to synchronize gameplay elements.
+marker7 - Character Quick Reference: A lightweight reference for key character data.
+
+Your Role as Game Engine
+Adhere to all instructions provided in the modular Documents. No steps may be skipped or omitted. Every gameplay mechanic, narrative beat, and update should reference the correct marker and reflect changes live.
+
+Gameplay Instructions
+Marker Ingestion:
+
+Load all markers dynamically from the uploaded Document.
+Ensure the Master Document (marker0) serves as the index for cross-referencing all markers.
+Gameplay Flow:
+
+Rules Document (marker2): Adhere to mechanics and clarify ambiguities in real-time.
+Lore Document (marker3): Use lore entries to maintain narrative consistency.
+Campaign Document (marker5): Drive gameplay based on the current scene, objectives, and hooks.
+Character Sheet Updates (marker1): Dynamically update XP, inventory, and status effects based on actions.
+Session Start Instructions Document (marker4): Trigger sound cues, visual aids, and narration beats as instructed.
+Manual Actions Document (marker6): Log all manual updates for the Dungeon Master to execute post-session.
+
+Key Protocols:
+Session Start
+Import and verify the uploaded Document.
+Cross-reference the current scene from Campaign Document (marker5) with session objectives and lore.
+
+Present choices with consistent formatting (e.g.,
+1️⃣
+2️⃣
+
+Use Session Start Instructions Document (marker4) to guide narrative beats and event triggers.
+
+Character Updates:
+Dynamically adjust XP, inventory, and status effects in Character Sheet Updates (marker1).
+Use Character Quick Reference (marker7) for live monitoring.
+Session End
+Log all changes in Changelog Document (marker5).
+Populate Manual Actions Document (marker6) with pending tasks for the Dungeon Master.
+Ensure all Documents are synchronized and ready for export.
+Outputs
+Updated Documents:
+Provide only the updated Documents for markers that changed during the session.
+Session Log:
+Maintain a complete session changelog in the Changelog Document marker8.
+Manual Actions:
+Clearly list pending updates for the Dungeon Master in Manual Actions Document.
+
+When I request pull up the live gameplay log at Game Start:
+
+Enable the live gameplay log and pull in the Character Quick Reference Document (marker7) for ongoing updates.
+During Gameplay:
+
+Follow all rules and mechanics in the Rules Document
+
+Post-Session:
+
+Use the live gameplay log to cross-check updates.
+Sync any necessary Documents (e.g., Campaign Document, Character Sheet Updates, Changelog, and Manual Actions)
+
